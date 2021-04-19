@@ -1,0 +1,26 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Son/main.c">
+    <Files>
+      <File FileName="Father/FatherFunctions.h" Line="1" Column="1" />
+      <File FileName="Father/FatherIncludesAndDefines.h" />
+      <File FileName="Father/main.c" />
+      <File FileName="Son/main.c" Line="25" Column="2" />
+      <File FileName="Son/SonFunctions.c" Line="91" Column="2" />
+      <File FileName="Son/SonFunctions.h" Line="1" Column="1" />
+      <File FileName="Son/SonIncludesAndDefines.h" Line="7" Column="23" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Ex1" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x64" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

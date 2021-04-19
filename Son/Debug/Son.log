@@ -1,0 +1,7 @@
+﻿  SonFunctions.c
+c:\users\gabon\source\repos\ex1\son\sonfunctions.c(20): warning C4047: 'initializing': 'char' differs in levels of indirection from 'char [1]'
+c:\users\gabon\source\repos\ex1\son\sonfunctions.c(18): warning C4101: 'second_num': unreferenced local variable
+c:\users\gabon\source\repos\ex1\son\sonfunctions.c(51): warning C4018: '<': signed/unsigned mismatch
+c:\users\gabon\source\repos\ex1\son\sonfunctions.c(67): warning C4018: '<': signed/unsigned mismatch
+c:\users\gabon\source\repos\ex1\son\sonfunctions.c(82): warning C4715: 'find_index_of_right_bracket': not all control paths return a value
+  Son.vcxproj -> C:\Users\gabon\source\repos\Ex1\Debug\Son.exe

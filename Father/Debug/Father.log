@@ -1,0 +1,6 @@
+﻿  main.c
+c:\users\gabon\source\repos\ex1\father\fatherincludesanddefines.h(2): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  c:\users\gabon\source\repos\ex1\father\main.c: note: see previous definition of '_CRT_SECURE_NO_WARNINGS'
+c:\users\gabon\source\repos\ex1\father\fatherincludesanddefines.h(3): warning C4005: '_CRT_NONSTDC_NO_DEPRECATE': macro redefinition
+  c:\users\gabon\source\repos\ex1\father\main.c: note: see previous definition of '_CRT_NONSTDC_NO_DEPRECATE'
+  Father.vcxproj -> C:\Users\gabon\source\repos\Ex1\Debug\Father.exe
